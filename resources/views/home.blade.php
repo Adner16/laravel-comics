@@ -15,7 +15,7 @@
         <header>
             <div class="container">
                 <figure>
-                    <img src="../assets/img/dc-logo.png" alt="">
+                    <img src= {{ assets('img/dc-logo.png') }} alt="">
                 </figure>
                 <ul>
                     <li>
